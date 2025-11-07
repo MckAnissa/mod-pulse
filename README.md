@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Mod Pulse banner" width="800">
+</p>
+
 # Mod Pulse 🎮  
 *A lightweight mod manager and file watcher.*
 
